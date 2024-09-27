@@ -76,6 +76,8 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="registration">Registration</h2>
+Registration is via the University's <a href="https://st-andrews-carpentries.github.io/2024-10-03-standrews/">Personal Development Management System (PDMS).</a> 
 
 <h2 id="general">General Information</h2>
 
